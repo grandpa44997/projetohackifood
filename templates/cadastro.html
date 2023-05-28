@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cadastro de Perfil e Filho</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Cadastro de Perfil e Filho</h1>
+    <form method="POST" action="{{ url_for('cadastro') }}">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required><br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="filho">Nome do Filho:</label>
+        <input type="text" id="filho" name="filho" required><br><br>
+
+        <input type="submit" value="Cadastrar">
+    </form>
+</body>
+</html>
