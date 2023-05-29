@@ -3,7 +3,7 @@
 # Hackathon Ifood - Projeto Hackifood
 
 ## Descrição do Projeto
-Este projeto faz parte do Hackathon Ifood e tem como objetivo desenvolver uma solução para melhorar a experiência dos usuários do aplicativo Ifood.
+Este projeto faz parte do Hackathon Ifood e tem como objetivo desenvolver uma solução para melhorar a experiência dos usuários do Decola iFood
 
 ## Instruções de Uso
 
